@@ -1,5 +1,5 @@
 
-money = 1118
+money = 2028
 def add(X):
  global money
  money += X
