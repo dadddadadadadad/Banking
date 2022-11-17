@@ -1,5 +1,5 @@
 
-money = 0 
+money = 965
 def add(X):
  global money
  money += X
